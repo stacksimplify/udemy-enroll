@@ -7,7 +7,7 @@
 
 [![Image](https://stacksimplify.com/course-images/aws-fargate-ecs-masterclass-microservices-docker-cloudformation.png "AWS Fargate & ECS - Masterclass")](https://www.udemy.com/course/aws-fargate-ecs-masterclass-microservices-docker-cloudformation/?referralCode=889F7446CFF25C2264F1)
 
-[![Image](https://stacksimplify.com/course-images/AWS-CloudFormation-Simplified.png "AWS CloudFormation - Simplified")](https://www.udemy.com/aws-cloudformation-simplified-hands-on-learning/?couponCode=STACKSIMPLIFY-2019)
+[![Image](https://stacksimplify.com/course-images/AWS-CloudFormation-Simplified.png "AWS CloudFormation - Simplified")](https://www.udemy.com/course/aws-cloudformation-simplified-hands-on-learning/?referralCode=A70710C014F063FF22AE)
 
 [![Image](https://stacksimplify.com/course-images/AWS-Elastic-Beanstalk-Masterclass-BestSeller.png "AWS Elastic Beanstalk - Masterclass")](https://www.udemy.com/course/aws-elastic-beanstalk-master-class/?referralCode=E61CDAE3C5FC938E4325)
 
